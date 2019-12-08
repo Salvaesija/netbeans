@@ -13,7 +13,10 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello genteee!!");
         System.out.println("Hello genteee!!");
+        System.out.println("Hello genteee que taaaaalll!!");
         System.out.println("Hello genteee!!");
+        System.out.println("Hello genteee!!");
+        System.out.println("Hello genteee que taaaaalll!!");
         
     }
 }
